@@ -29,7 +29,6 @@ def main(speed=0, bg_color="grey"):
         myTurtle.penup()
         myTurtle.goto(pos[0], pos[1])
         myTurtle.pendown()
-        myturtle.color("red")
 
         # draw the snowflake
         for _ in range(8):
