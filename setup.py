@@ -6,6 +6,6 @@ setup(
     version="0.1",
     author="DSSS",
     author_email="Utkarsha.shukla@fau.de",
-    packages=find_package(),
+    packages=find_packages(),
     install_requires={"numpy","turtles"},
 )
